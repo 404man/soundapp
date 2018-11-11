@@ -1,0 +1,14 @@
+{
+  "extends": "aribnb",
+  "env": {
+  "browser": true,
+  "jest": true
+  },
+  "parser": "babel-eslint",
+  "globals": {
+    "__DEV__": true
+  },
+  "rules": {
+    
+  }
+}
